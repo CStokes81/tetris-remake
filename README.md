@@ -1,3 +1,13 @@
+# The Tetris-Remake
+
+This is a remake of the classic Tetris game whereas you try to insert the puzzle pieces to clear each line and see how high you can get your score
+
+## The Styling
+
+1. I downloaded the background from Unsplash.com. The author of the background is Klemen Vrankar, whom happens to have a lot of beautiful sky & nature images if you're interested
+
+2.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
